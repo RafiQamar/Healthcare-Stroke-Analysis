@@ -54,8 +54,8 @@ This project aims to analyze a healthcare dataset of stroke patients to identify
 
 ## 🗄️ Step 7: SQL Database Integration
 
-- Created a SQLite database: `stroke_data.db`
-- Loaded cleaned dataset into a SQL table: `stroke_patients`
+- Created a MySQL database: `healthcare.db`
+- Loaded cleaned dataset into a SQL table: `healthcare_stroke`
 - Sample queries:
   - Stroke count by gender
   - Average BMI & glucose by stroke status
